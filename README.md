@@ -7,6 +7,7 @@ hack-a-thing-2-hackathing2quill created by GitHub Classroom
 - I spent **10 hours** following the steps and instructions in the tutorial
 - I spent **2-4 hours** taking concepts from the tutorials and implementing them on my own
 - I spent **2 hours** learning how pysyft implements pytorch models in a federated way. 
+- I wrote over **4,000 lines** of Jupyter Notebook code
 
 ## What did I learn?
 - I learned a tremendous amount about object-oriented machine learning. Easily the most valuable knowledge from this course is how to create and train models with pytorch, the framework upon which pysyft is built. 
